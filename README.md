@@ -1,4 +1,4 @@
-# Free Fire UID to Name Finder by NepDevs 🚀
+# Free Fire UID to Name Finder by SYNAX 🚀
 
 Unveil the gaming world's best-kept secrets with our PHP script designed for Free Fire enthusiasts! 🌟
 
@@ -18,7 +18,7 @@ Unveil the gaming world's best-kept secrets with our PHP script designed for Fre
 ## How to Use:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Nepcoder1/FreeFire-UID-to-Name-Finder.git
+   git clone https://github.com/SYNAX07/FreeFire-UID-to-Name-Finder.git
    ```
 
 2. **Set Up Your Environment:**
@@ -30,8 +30,8 @@ Unveil the gaming world's best-kept secrets with our PHP script designed for Fre
 4. **Enjoy Exploring!**
    Dive into the gaming community with our Free Fire UID to Name Finder and connect with players like never before.
 
-## Made with ❤️ by NepDevs (@devsnp)
+## Made with ❤️ by SYNAX (@OGsnx)
 
-Feel free to explore, modify, and share this script, but please credit [@devsnp](https://t.me/devsnp) for their outstanding contribution to the gaming community.
+Feel free to explore, modify, and share this script, but please credit [S Y N A X](https://t.me/OGsnx) for their outstanding contribution to the gaming community.
 
 🌟 **Happy Gaming! 🎮🚀**
