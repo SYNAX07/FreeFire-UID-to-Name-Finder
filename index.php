@@ -154,7 +154,7 @@ body {
 </head>
 <body>
     <div class="navbar">
-        <h2>NEPCODER</h2>
+        <h2>SYNAX</h2>
     </div>
     <?php
 
